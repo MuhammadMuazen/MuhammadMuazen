@@ -21,7 +21,7 @@ I am muhammad muazen a penetration tester 💻, enthusiast in cyber security, Ne
 
 ---
 
-#### Resume 📑
+#### Penetration Tester Resume 📑
 you can download my resume from this link:
 https://github.com/MuhammadMuazen/MuhammadMuazen/blob/main/resume.pdf
 
