@@ -20,7 +20,7 @@ I am muhammad muazen a penetration tester 💻, enthusiast in cyber security, Ne
       <img src="https://github.com/MuhammadMuazen/MuhammadMuazen/blob/main/assets/oscpLogo.png" /> 
     </td>
     <td>
-      <img src="https://github.com/MuhammadMuazen/MuhammadMuazen/blob/main/assets/osepLogo.svg" />
+      <img src="https://github.com/MuhammadMuazen/MuhammadMuazen/blob/main/assets/osepLogo.png" />
     </td>
   </tr>
 </table>
