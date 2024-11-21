@@ -48,9 +48,10 @@ I am muhammad muazen a penetration tester 💻, enthusiast in cyber security, Ne
 2. Vulnerability Assessment 🔓
 3. C Programming Language <img width="22px" height="22px" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
 4. C# Programming Language  <a href="https://emoji.gg/emoji/7106-csharp"><img src="https://cdn3.emoji.gg/emojis/7106-csharp.png" width="18px" height="18px" alt="CSharp"></a>
-5. Python Programming Language 🐍
-6. Linux Operating System 🐧
-7. Windows Operating System 🪟
+5. Rust Programming Language 🦀
+6. Python Programming Language 🐍
+7. Linux Operating System 🐧
+8. Windows Operating System 🪟
 
 ---
 #### Hobbies and Interests ✨
