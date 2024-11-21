@@ -13,6 +13,18 @@ I am muhammad muazen a penetration tester 💻, enthusiast in cyber security, Ne
 7. Windows Operating System 🪟
 ---
 #### Self Study
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/MuhammadMuazen/MuhammadMuazen/blob/main/assets/ocspLogo.png" /> 
+    </td>
+    <td>
+      <img src="https://github.com/MuhammadMuazen/MuhammadMuazen/blob/main/assets/osepLogo.png" />
+    </td>
+  </tr>
+</table>
+
 ---
 #### Hobbies and Interests ✨
 1. Programming especially system level programming </>
@@ -27,15 +39,6 @@ you can download my resume from this link:
 https://github.com/MuhammadMuazen/MuhammadMuazen/blob/main/resume.pdf
 
 ---
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/MuhammadMuazen/MuhammadMuazen/blob/main/assets/ocspLogo.png" /> 
-    </td>
-    <td>
-      <img src="https://github.com/MuhammadMuazen/MuhammadMuazen/blob/main/assets/osepLogo.png" />
-    </td>
-  </tr>
-</table>
+
 
 
