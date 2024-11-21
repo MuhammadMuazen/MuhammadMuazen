@@ -27,6 +27,4 @@ https://github.com/MuhammadMuazen/MuhammadMuazen/blob/main/resume.pdf
 
 ---
 
-<img src="https://github.com/MuhammadMuazen/MuhammadMuazen/blob/main/assets/ocspLogo.png" />
-
-<img src="https://github.com/MuhammadMuazen/MuhammadMuazen/blob/main/assets/osepLogo.png" />
+<img src="https://github.com/MuhammadMuazen/MuhammadMuazen/blob/main/assets/ocspLogo.png" /> <img src="https://github.com/MuhammadMuazen/MuhammadMuazen/blob/main/assets/osepLogo.png" />
