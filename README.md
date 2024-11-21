@@ -17,7 +17,7 @@ I am muhammad muazen a penetration tester 💻, enthusiast in cyber security, Ne
       <img src="https://github.com/MuhammadMuazen/MuhammadMuazen/blob/main/assets/oswaLogo.png" />
     </td>
     <td>
-      <img src="https://github.com/MuhammadMuazen/MuhammadMuazen/blob/main/assets/gwaptLogo.png" />
+      <img src="https://github.com/MuhammadMuazen/MuhammadMuazen/blob/main/assets/maldevLogo.png" />
     </td>
     <td>
       <img src="https://github.com/MuhammadMuazen/MuhammadMuazen/blob/main/assets/ewptLogo.png" />
@@ -26,7 +26,7 @@ I am muhammad muazen a penetration tester 💻, enthusiast in cyber security, Ne
       <img src="https://github.com/MuhammadMuazen/MuhammadMuazen/blob/main/assets/ewptxLogo.png" />
     </td>
     <td>
-      <img src="https://github.com/MuhammadMuazen/MuhammadMuazen/blob/main/assets/maldevLogo.png" />
+      <img src="https://github.com/MuhammadMuazen/MuhammadMuazen/blob/main/assets/gwaptLogo.png" />
     </td>
   </tr>
 </table>
