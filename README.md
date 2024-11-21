@@ -27,3 +27,4 @@ https://github.com/MuhammadMuazen/MuhammadMuazen/blob/main/resume.pdf
 
 ---
 
+<img src="https://images.credly.com/images/ebefd276-7f47-4aa8-b1d8-4a13636e4851/linkedin_thumb_image.png" width="185px"/>
