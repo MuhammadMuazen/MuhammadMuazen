@@ -3,15 +3,6 @@
 I am muhammad muazen a penetration tester 💻, enthusiast in cyber security, Networking 🛜, malware development 🦠, low level programming and computer science in general 🤖.
 
 ---
-#### Skills
-1. Penetration Testing 💻
-2. Vulnerability Assessment 🔓
-3. C Programming Language <img width="22px" height="22px" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
-4. C# Programming Language  <a href="https://emoji.gg/emoji/7106-csharp"><img src="https://cdn3.emoji.gg/emojis/7106-csharp.png" width="18px" height="18px" alt="CSharp"></a>
-5. Python Programming Language 🐍
-6. Linux Operating System 🐧
-7. Windows Operating System 🪟
----
 #### Self Study 📚
 
 <table>
@@ -27,6 +18,16 @@ I am muhammad muazen a penetration tester 💻, enthusiast in cyber security, Ne
     </td>
   </tr>
 </table>
+
+---
+#### Skills
+1. Penetration Testing 💻
+2. Vulnerability Assessment 🔓
+3. C Programming Language <img width="22px" height="22px" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
+4. C# Programming Language  <a href="https://emoji.gg/emoji/7106-csharp"><img src="https://cdn3.emoji.gg/emojis/7106-csharp.png" width="18px" height="18px" alt="CSharp"></a>
+5. Python Programming Language 🐍
+6. Linux Operating System 🐧
+7. Windows Operating System 🪟
 
 ---
 #### Hobbies and Interests ✨
