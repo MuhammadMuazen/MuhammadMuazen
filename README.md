@@ -12,7 +12,7 @@ I am muhammad muazen a penetration tester 💻, enthusiast in cyber security, Ne
 6. Linux Operating System 🐧
 7. Windows Operating System 🪟
 ---
-#### Self Study
+#### Self Study 📚
 
 <table>
   <tr>
