@@ -22,6 +22,9 @@ I am muhammad muazen a penetration tester 💻, enthusiast in cyber security, Ne
     <td>
       <img src="https://github.com/MuhammadMuazen/MuhammadMuazen/blob/main/assets/ewptLogo.png" />
     </td>
+        <td>
+      <img src="https://github.com/MuhammadMuazen/MuhammadMuazen/blob/main/assets/ewptxLogo.png" />
+    </td>
   </tr>
 </table>
 
