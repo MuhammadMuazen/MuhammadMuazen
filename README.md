@@ -1,6 +1,6 @@
 ## Hi! 👋
 #### Who Am I? 🧐
-I am muhammad muazen a penetration tester 💻, enthusiast in cyber security, Networking 🛜, malware development 🦠, low level programming and computer science in general 🤖.
+I am muhammad muazen a IT specialist, penetration tester 💻, enthusiast in cyber security, Networking 🛜, malware development 🦠, low level programming and computer science in general 🤖.
 
 ---
 #### Self Study 📚
