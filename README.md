@@ -26,7 +26,7 @@ I am muhammad muazen a IT specialist, penetration tester 💻, enthusiast in cyb
       <img src="https://github.com/MuhammadMuazen/MuhammadMuazen/blob/main/assets/ewptxLogo.png" />
     </td>
     <td>
-      <img src="https://github.com/MuhammadMuazen/MuhammadMuazen/blob/main/assets/gwaptLogo.png" />
+      <img src="https://github.com/MuhammadMuazen/MuhammadMuazen/blob/main/assets/ccnaLogo.png" />
     </td>
   </tr>
   <tr>
