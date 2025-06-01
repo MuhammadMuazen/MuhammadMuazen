@@ -34,7 +34,7 @@ I am muhammad muazen a IT specialist, penetration tester 💻, enthusiast in cyb
       <img src="https://github.com/MuhammadMuazen/MuhammadMuazen/blob/main/assets/gwaptLogo.png" />
     </td>
     <td>
-      <img src="https://github.com/MuhammadMuazen/MuhammadMuazen/blob/main/assets/grtpLogo.png" />
+      <img src="https://github.com/MuhammadMuazen/MuhammadMuazen/blob/main/assets/grtplogo.png" />
     </td>
     <td>
       <img src="https://github.com/MuhammadMuazen/MuhammadMuazen/blob/main/assets/gsoc.png" />
