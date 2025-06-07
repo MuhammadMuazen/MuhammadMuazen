@@ -1,6 +1,6 @@
 ## Hi! 👋
 #### Who Am I? 🧐
-I am a cybersecurity engineer specializing in offensive security, with expertise in penetration testing, vulnerability assessment, and defensive system development. I am proficient in programming languages including C, Python, and Rust for building tools to automate attacks, enhance protections, and develop malware. My practical experience spans both Windows and Linux environments, where I utilize various common and cutting-edge tools for network analysis and attack simulation. I possess strong capabilities in planning attack pathways, contributing to cybersecurity defense system design, problem-solving, and collaborating with teams to build more secure environments.
+I am a cybersecurity engineer 🤖 specializing in offensive security 🥷, with expertise in penetration testing 🔓, vulnerability assessment 📄, and defensive system development 🛅. I am proficient in programming languages 👨‍💻 including C, Python, and Rust for building tools to automate attacks ⚔️, enhance protections 🛡️, and develop malware 👾. My practical experience spans both Windows 🪟 and Linux environments 🐧, where I utilize various common and cutting-edge tools for network analysis and attack simulation. I possess strong capabilities in planning attack pathways 📊, contributing to cybersecurity defense system design 🛠️, problem-solving 💭, and collaborating with teams to build more secure environments 🤝.
 
 ---
 #### Self Study 📚
