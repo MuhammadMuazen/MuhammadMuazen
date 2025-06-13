@@ -77,5 +77,8 @@ https://github.com/MuhammadMuazen/MuhammadMuazen/blob/main/resume-sysadmin.pdf
 
 ---
 
+#### My Blog:
+
+https://muhammadmuazen-blog.pages.dev/
 
 
