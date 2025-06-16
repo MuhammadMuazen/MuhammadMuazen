@@ -69,11 +69,10 @@ I am a cybersecurity engineer 🤖 specializing in offensive security 🥷, with
 ---
 
 #### Penetration Tester Resume 📑
-you can download my cybersecurity resume from this link:
-https://github.com/MuhammadMuazen/MuhammadMuazen/blob/main/resume-cybersec.pdf
+you can download my cybersecurity resume from this [link](https://github.com/MuhammadMuazen/MuhammadMuazen/blob/main/resume-cybersec.pdf)
 
-you can download my system administration resume from the link:
-https://github.com/MuhammadMuazen/MuhammadMuazen/blob/main/resume-sysadmin.pdf
+you can download my system administration resume from the [link](https://github.com/MuhammadMuazen/MuhammadMuazen/blob/main/resume-sysadmin.pdf)
+
 
 ---
 
