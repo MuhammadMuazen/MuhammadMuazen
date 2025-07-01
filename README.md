@@ -40,6 +40,9 @@ I am a cybersecurity engineer 🤖 specializing in offensive security 🥷, with
       <img src="https://github.com/MuhammadMuazen/MuhammadMuazen/blob/main/assets/gsoc.png" />
     </td>
     <td>
+      <img src="https://github.com/MuhammadMuazen/MuhammadMuazen/blob/main/assets/gdsalogo.png" />
+    </td>
+    <td>
       <img src="https://github.com/MuhammadMuazen/MuhammadMuazen/blob/main/assets/LinuxEssentials.png" />
     </td>
     <td>
